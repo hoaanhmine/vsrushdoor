@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="screech_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="screech_idle0000" x="0" y="0" width="273" height="184" frameX="0" frameY="-9" frameWidth="273" frameHeight="199"/>
+	<SubTexture name="screech_idle0001" x="273" y="0" width="266" height="199" frameX="0" frameY="0" frameWidth="273" frameHeight="199"/>
+	<SubTexture name="screech_leave0000" x="539" y="0" width="252" height="209" frameX="-224" frameY="-434" frameWidth="476" frameHeight="643"/>
+	<SubTexture name="screech_leave0001" x="539" y="0" width="252" height="209" frameX="-224" frameY="-434" frameWidth="476" frameHeight="643"/>
+	<SubTexture name="screech_leave0002" x="0" y="209" width="346" height="183" frameX="-76" frameY="-440" frameWidth="476" frameHeight="643"/>
+	<SubTexture name="screech_leave0003" x="346" y="209" width="308" height="258" frameX="-14" frameY="-310" frameWidth="476" frameHeight="643"/>
+	<SubTexture name="screech_leave0004" x="654" y="209" width="203" height="321" frameX="0" frameY="-93" frameWidth="476" frameHeight="643"/>
+	<SubTexture name="screech_leave0005" x="0" y="530" width="287" height="267" frameX="-171" frameY="0" frameWidth="476" frameHeight="643"/>
+	<SubTexture name="screech_leave0006" x="287" y="530" width="4" height="4" frameX="-419" frameY="-71" frameWidth="476" frameHeight="643"/>
+	<SubTexture name="screech_leave0007" x="287" y="530" width="4" height="4" frameX="-419" frameY="-71" frameWidth="476" frameHeight="643"/>
+	<SubTexture name="screech_leave0008" x="287" y="530" width="4" height="4" frameX="-419" frameY="-71" frameWidth="476" frameHeight="643"/>
+	<SubTexture name="screech_leave0009" x="287" y="530" width="4" height="4" frameX="-419" frameY="-71" frameWidth="476" frameHeight="643"/>
+	<SubTexture name="screech_leave0010" x="287" y="530" width="4" height="4" frameX="-419" frameY="-71" frameWidth="476" frameHeight="643"/>
+	<SubTexture name="screech_scream0000" x="291" y="530" width="243" height="231" frameX="-236" frameY="0" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0001" x="534" y="530" width="372" height="206" frameX="0" frameY="-43" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0002" x="0" y="797" width="368" height="209" frameX="-1" frameY="-40" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0003" x="534" y="530" width="372" height="206" frameX="0" frameY="-43" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0004" x="0" y="797" width="368" height="209" frameX="-1" frameY="-40" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0005" x="534" y="530" width="372" height="206" frameX="0" frameY="-43" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0006" x="0" y="797" width="368" height="209" frameX="-1" frameY="-40" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0007" x="0" y="797" width="368" height="209" frameX="-1" frameY="-40" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0008" x="0" y="797" width="368" height="209" frameX="-1" frameY="-40" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0009" x="368" y="797" width="334" height="212" frameX="-123" frameY="-18" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0010" x="368" y="797" width="334" height="212" frameX="-123" frameY="-18" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0011" x="702" y="797" width="266" height="199" frameX="-197" frameY="-14" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0012" x="702" y="797" width="266" height="199" frameX="-197" frameY="-14" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0013" x="702" y="797" width="266" height="199" frameX="-197" frameY="-14" frameWidth="479" frameHeight="249"/>
+	<SubTexture name="screech_scream0014" x="702" y="797" width="266" height="199" frameX="-197" frameY="-14" frameWidth="479" frameHeight="249"/>
+</TextureAtlas>

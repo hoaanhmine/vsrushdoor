@@ -1,0 +1,32 @@
+{
+	"storyName": "Rush",
+	"difficulties": "hard-locked",
+	"hideFreeplay": false,
+	"weekBackground": "rush",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"doors",
+			"icons-rush",
+			[
+				68,
+				46,
+				34
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Rush",
+	"hiddenUntilUnlocked": false
+}

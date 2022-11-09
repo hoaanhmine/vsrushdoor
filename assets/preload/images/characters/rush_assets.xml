@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rush_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rush_down0000" x="0" y="0" width="287" height="363" frameX="0" frameY="-14" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0001" x="287" y="0" width="287" height="362" frameX="0" frameY="-14" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0002" x="574" y="0" width="287" height="346" frameX="0" frameY="0" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0003" x="861" y="0" width="287" height="347" frameX="0" frameY="0" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0004" x="574" y="0" width="287" height="346" frameX="0" frameY="0" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0005" x="861" y="0" width="287" height="347" frameX="0" frameY="0" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0006" x="574" y="0" width="287" height="346" frameX="0" frameY="0" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0007" x="861" y="0" width="287" height="347" frameX="0" frameY="0" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0008" x="574" y="0" width="287" height="346" frameX="0" frameY="0" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0009" x="861" y="0" width="287" height="347" frameX="0" frameY="0" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0010" x="574" y="0" width="287" height="346" frameX="0" frameY="0" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0011" x="861" y="0" width="287" height="347" frameX="0" frameY="0" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0012" x="574" y="0" width="287" height="346" frameX="0" frameY="0" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_down0013" x="861" y="0" width="287" height="347" frameX="0" frameY="0" frameWidth="287" frameHeight="377"/>
+	<SubTexture name="rush_idle0000" x="1148" y="0" width="274" height="338" frameX="-1" frameY="-3" frameWidth="277" frameHeight="343"/>
+	<SubTexture name="rush_idle0001" x="1422" y="0" width="274" height="339" frameX="0" frameY="-4" frameWidth="277" frameHeight="343"/>
+	<SubTexture name="rush_idle0002" x="1696" y="0" width="275" height="338" frameX="-2" frameY="-3" frameWidth="277" frameHeight="343"/>
+	<SubTexture name="rush_idle0003" x="1971" y="0" width="274" height="338" frameX="0" frameY="0" frameWidth="277" frameHeight="343"/>
+	<SubTexture name="rush_left0000" x="0" y="363" width="300" height="313" frameX="0" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0001" x="300" y="363" width="300" height="313" frameX="0" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0002" x="600" y="363" width="298" height="313" frameX="-14" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0003" x="898" y="363" width="298" height="313" frameX="-14" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0004" x="600" y="363" width="298" height="313" frameX="-14" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0005" x="898" y="363" width="298" height="313" frameX="-14" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0006" x="600" y="363" width="298" height="313" frameX="-14" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0007" x="898" y="363" width="298" height="313" frameX="-14" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0008" x="600" y="363" width="298" height="313" frameX="-14" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0009" x="898" y="363" width="298" height="313" frameX="-14" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0010" x="600" y="363" width="298" height="313" frameX="-14" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0011" x="898" y="363" width="298" height="313" frameX="-14" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0012" x="600" y="363" width="298" height="313" frameX="-14" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_left0013" x="898" y="363" width="298" height="313" frameX="-14" frameY="0" frameWidth="312" frameHeight="313"/>
+	<SubTexture name="rush_right0000" x="1196" y="363" width="266" height="403"/>
+	<SubTexture name="rush_right0001" x="1462" y="363" width="265" height="398" frameX="-1" frameY="-2" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_right0002" x="1727" y="363" width="263" height="381" frameX="-1" frameY="-11" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_right0003" x="1990" y="363" width="262" height="381" frameX="0" frameY="-10" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_right0004" x="1727" y="363" width="263" height="381" frameX="-1" frameY="-11" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_right0005" x="1990" y="363" width="262" height="381" frameX="0" frameY="-10" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_right0006" x="1727" y="363" width="263" height="381" frameX="-1" frameY="-11" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_right0007" x="1990" y="363" width="262" height="381" frameX="0" frameY="-10" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_right0008" x="1727" y="363" width="263" height="381" frameX="-1" frameY="-11" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_right0009" x="1990" y="363" width="262" height="381" frameX="0" frameY="-10" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_right0010" x="1727" y="363" width="263" height="381" frameX="-1" frameY="-11" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_right0011" x="1990" y="363" width="262" height="381" frameX="0" frameY="-10" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_right0012" x="1727" y="363" width="263" height="381" frameX="-1" frameY="-11" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_right0013" x="0" y="766" width="262" height="381" frameX="0" frameY="-10" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="rush_up0000" x="262" y="766" width="285" height="440" frameX="-1" frameY="0" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0001" x="547" y="766" width="284" height="439" frameX="0" frameY="0" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0002" x="831" y="766" width="285" height="391" frameX="-1" frameY="-10" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0003" x="1116" y="766" width="284" height="390" frameX="-1" frameY="-10" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0004" x="831" y="766" width="285" height="391" frameX="-1" frameY="-10" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0005" x="1400" y="766" width="284" height="390" frameX="-1" frameY="-10" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0006" x="831" y="766" width="285" height="391" frameX="-1" frameY="-10" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0007" x="1400" y="766" width="284" height="390" frameX="-1" frameY="-10" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0008" x="831" y="766" width="285" height="391" frameX="-1" frameY="-10" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0009" x="1400" y="766" width="284" height="390" frameX="-1" frameY="-10" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0010" x="831" y="766" width="285" height="391" frameX="-1" frameY="-10" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0011" x="1400" y="766" width="284" height="390" frameX="-1" frameY="-10" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0012" x="831" y="766" width="285" height="391" frameX="-1" frameY="-10" frameWidth="286" frameHeight="440"/>
+	<SubTexture name="rush_up0013" x="1400" y="766" width="284" height="390" frameX="-1" frameY="-10" frameWidth="286" frameHeight="440"/>
+</TextureAtlas>

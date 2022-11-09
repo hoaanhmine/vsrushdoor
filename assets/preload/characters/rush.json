@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-36,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rush_up"
+		},
+		{
+			"offsets": [
+				-40,
+				-160
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "rush_idle"
+		},
+		{
+			"offsets": [
+				60,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "rush_left"
+		},
+		{
+			"offsets": [
+				-40,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rush_down"
+		},
+		{
+			"offsets": [
+				-170,
+				-133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rush_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rush_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icons-rush",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		239,
+		239
+	],
+	"camera_position": [
+		0,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

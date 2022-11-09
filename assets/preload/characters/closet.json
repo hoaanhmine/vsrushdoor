@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "closet_static"
+		},
+		{
+			"offsets": [
+				26,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "closet_left"
+		},
+		{
+			"offsets": [
+				-13,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "closet_right"
+		},
+		{
+			"offsets": [
+				7,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "closet_down"
+		},
+		{
+			"offsets": [
+				-9,
+				31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "closet_up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/closet_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-260,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
